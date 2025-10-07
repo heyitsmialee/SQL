@@ -7,3 +7,5 @@
 ---
 ### 요약
 | No | category | detail |
+| 1 | madangdb | sql 기초 |
+| 2 | sakila | 자료 구조 과제 2 |
